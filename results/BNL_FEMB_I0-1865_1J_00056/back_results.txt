@@ -1,0 +1,76 @@
+FEMB SN: 00056
+
+06-06-2024
+
+* Chip 0 (back):
+Original OCR result: ColdADC N6Y381.00 02092 2315
+Formatted OCR result:
+ColdADC
+N6Y381.00
+02092
+2315
+
+* Chip 1 (back):
+Original OCR result: ColADC N6Y381.00 02353 2315
+Formatted OCR result:
+ColADC
+N6Y381.00
+02353
+2315
+
+* Chip 2 (back):
+Original OCR result: ColdADC N6Y381.00 02031 2315
+Formatted OCR result:
+ColdADC
+N6Y381.00
+02031
+2315
+
+* Chip 3 (back):
+Original OCR result: ColdADC N6Y381.00 02091 2315
+Formatted OCR result:
+ColdADC
+N6Y381.00
+02091
+2315
+
+* Chip 4 (back):
+Original OCR result: BNL LArASIC Version P5B 22/48 002-06911
+Formatted OCR result:
+BNL
+LArASIC
+Version
+P5B
+22/48
+002-06911
+
+* Chip 5 (back):
+Original OCR result: BNL LArASIC Version P5B 22/48 002-06890
+Formatted OCR result:
+BNL
+LArASIC
+Version
+P5B
+22/48
+002-06890
+
+* Chip 6 (back):
+Original OCR result: BNL LArASIC Version P5B 22/48 002-06896
+Formatted OCR result:
+BNL
+LArASIC
+Version
+P5B
+22/48
+002-06896
+
+* Chip 7 (back):
+Original OCR result: BNL LArASIC Version P5B 23/16 003-07503
+Formatted OCR result:
+BNL
+LArASIC
+Version
+P5B
+23/16
+003-07503
+

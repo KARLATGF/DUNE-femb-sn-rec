@@ -1,0 +1,20 @@
+femb_sn = "BNL/FEMB/I0-1865-1J/00055"
+femb_parts = [
+["(F) COLDATA 1 SN", "2314-00189"],
+["(F) COLDATA 2 SN", "2314-00185"],
+["(F) ColdADC 1 SN", "2315-02472"],
+["(F) ColdADC 2 SN", "2315-02476"],
+["(F) ColdADC 3 SN", "2315-02377"],
+["(F) ColdADC 4 SN", "2315-02373"],
+["(F) LArASIC 1 SN", "003-04627"],
+["(F) LArASIC 2 SN", "003-04579"],
+["(F) LArASIC 3 SN", "003-04577"],
+["(F) LArASIC 4 SN", "003-04626"],
+["(B) ColdADC 1 SN", "2315-02072"],
+["(B) ColdADC 2 SN", "2315-02062"],
+["(B) ColdADC 3 SN", "2315-02032"],
+["(B) ColdADC 4 SN", "2315-01567"],
+["(B) LArASIC 1 SN", "003-07232"],
+["(B) LArASIC 2 SN", "003-07233"],
+["(B) LArASIC 3 SN", "003-07428"],
+["(B) LArASIC 4 SN", "003-07429"]]

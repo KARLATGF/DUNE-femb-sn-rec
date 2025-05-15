@@ -1,0 +1,92 @@
+FEMB SN: 00055
+
+06-06-2024
+
+* Chip 0 (front):
+Original OCR result: COLDATA N6Y381.00 00189 2314
+Formatted OCR result:
+COLDATA
+N6Y381.00
+00189
+2314
+
+* Chip 1 (front):
+Original OCR result: COLDATA N6Y381.00 00185 2314
+Formatted OCR result:
+COLDATA
+N6Y381.00
+00185
+2314
+
+* Chip 2 (front):
+Original OCR result: CoIdADC N6Y381.00 02472 2315
+Formatted OCR result:
+CoIdADC
+N6Y381.00
+02472
+2315
+
+* Chip 3 (front):
+Original OCR result: ColdADC N6Y381.00 02476 2315
+Formatted OCR result:
+ColdADC
+N6Y381.00
+02476
+2315
+
+* Chip 4 (front):
+Original OCR result: ColdADC N6Y381.00 02377 2315
+Formatted OCR result:
+ColdADC
+N6Y381.00
+02377
+2315
+
+* Chip 5 (front):
+Original OCR result: ColdADC N6Y381.00 02373 2315
+Formatted OCR result:
+ColdADC
+N6Y381.00
+02373
+2315
+
+* Chip 6 (front):
+Original OCR result: BNL LArASIC Version P5B 23/16 003-04627
+Formatted OCR result:
+BNL
+LArASIC
+Version
+P5B
+23/16
+003-04627
+
+* Chip 7 (front):
+Original OCR result: BNL LArASIC Version P5B 23/16 003-04579
+Formatted OCR result:
+BNL
+LArASIC
+Version
+P5B
+23/16
+003-04579
+
+* Chip 8 (front):
+Original OCR result: BNL LArASIC Version P5B 23/16 003-04577
+Formatted OCR result:
+BNL
+LArASIC
+Version
+P5B
+23/16
+003-04577
+
+* Chip 9 (front):
+Original OCR result: BNL L'ArASIC Version P5B 23/16 003-04626
+Formatted OCR result:
+BNL
+L'ArASIC
+Version
+P5B
+23/16
+003-04626
+
